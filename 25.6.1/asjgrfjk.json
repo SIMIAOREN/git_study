@@ -1,0 +1,10 @@
+{
+  
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "workbench.startupEditor": "none",
+  "files.autoGuessEncoding": true,
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.mouseWheelZoom": true,
+  "git.confirmSync": false}
