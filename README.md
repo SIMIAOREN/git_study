@@ -1,15 +1,82 @@
-# dfbjbj
-## hdfkjkrg
- dudugfu
- cffd
-jchfj
-
-### sgajdhi
-### hfrrhrg
-jsahkjhe
-kdhuif
-dshfjsbkdjbg
-hskjfbjba
 
 
-dshfusndkjg
+---
+
+### 基础语法速查
+#### 1. 标题层级
+
+# 一级标题
+## 二级标题
+### 三级标题
+
+
+#### 2. 文本格式
+
+*斜体文本* 或 _斜体文本_  
+**粗体文本** 或 __粗体文本__      
+~~删除线文本~~
+`行内代码`
+
+![alt text](git头像.png)
+
+# 這個標題擁有 1 個 id {#my_id}
+#### 3. 列表系统
+**无序列表**：
+
+-苹果
+- 香蕉
+- 橙子
+
+
+**有序列表**：
+
+1. 第一步
+2. 第二步
+3. 第三步
+
+
+**任务列表**：
+
+- [x] 已完成
+- [ ] 待办事项
+
+
+
+#### 4. 引用与代码
+
+>引用内容
+可多行使用
+ceshi
+
+​```python
+def hello():
+    print("Hello World!")
+​```
+
+```python
+def hello():
+    print("Hello World!")
+```
+
+#### 5. 链接与图片
+
+[菜鸟教程](https://www.runoob.com)
+
+
+
+#### 6. 表格制作
+
+| 语言   | 难度 |
+| ------ | ---- |
+| Python | ⭐⭐   |
+| Java   | ⭐⭐⭐⭐ |
+
+
+
+
+
+
+
+
+
+
